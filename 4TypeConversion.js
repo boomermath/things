@@ -25,8 +25,11 @@ let e = 7;
 e += "string"
 
 //what would e output as?
+//Ans: 7string
+
 
 BONUS
 //from previous example
 e -= "g";
 //what would this output?
+//Answer: NaN (not a number)
