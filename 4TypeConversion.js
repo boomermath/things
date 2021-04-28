@@ -18,3 +18,15 @@ var e = "string" + 3;
 "6" / "2" or "6" / 2
 //here there are 2 different types, but JS is smart, it converts the types into numbers
 //so both would output 3
+
+
+let e = 7;
+
+e += "string"
+
+//what would e output as?
+
+BONUS
+//from previous example
+e -= "g";
+//what would this output?
