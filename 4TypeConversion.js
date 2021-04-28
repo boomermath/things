@@ -33,3 +33,5 @@ BONUS
 e -= "g";
 //what would this output?
 //Answer: NaN (not a number)
+
+//JS can't do string subtraction, it can only concatenate (mush together) strings (and other values), nothing else 
