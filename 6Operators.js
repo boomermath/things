@@ -51,3 +51,7 @@ To sum up, === checks for type, but == doesn't care.
 
 0 === 0 || false //true, because the condition on the left is true
 0 == "0" || 8 > 1 //true because at least one condition is true. If at least one condition is true, it will return true.
+
+// >= <=
+greater than or equal to
+and less than or equal to
