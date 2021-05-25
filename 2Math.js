@@ -28,3 +28,8 @@ i = Math.sqrt(i);
 
 //
 //essentially, you are taking the current value of i, doing math with it, and then making that value the value of i
+
+//also
+i += 1
+//same as
+i++
